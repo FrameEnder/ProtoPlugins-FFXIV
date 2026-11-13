@@ -1,0 +1,119 @@
+[
+  {
+    "Author": "FrameEnder",
+    "Name": "Cinematic Dialogue",
+    "InternalName": "CinematicDialogue",
+    "AssemblyVersion": "0.4.1.0",
+    "Punchline": "Turns NPC conversations into camera-directed scenes.",
+    "Description": "Frames NPC conversations with saved camera views that keep both faces in shot, adds letterbox bars and a vignette, hides the HUD and anyone standing in the way, and lets you restyle the dialogue box. Configure with /cinedialogue.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "camera",
+      "dialogue",
+      "cinematic",
+      "immersion",
+      "hud"
+    ],
+    "RepoUrl": "https://github.com/FrameEnder/ProtoPlugins-FFXIV",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/CinematicDialogue/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/CinematicDialogue/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/CinematicDialogue/latest.zip",
+    "LastUpdate": 1794582542
+  },
+  {
+    "Author": "FrameEnder",
+    "Name": "Commander",
+    "InternalName": "Commander",
+    "AssemblyVersion": "1.0.0.0",
+    "Punchline": "Chat commands for logging out or closing the game, usable from other plugins.",
+    "Description": "Adds /commander logout and /commander shutdown. They wait until you're out of combat, cutscenes, duties and loading screens, run the game's own command, and confirm the Yes/No dialog. Built to be used as Questionable's \"Run command when Questionable finishes\" setting.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "logout",
+      "utility",
+      "automation"
+    ],
+    "RepoUrl": "https://github.com/FrameEnder/ProtoPlugins-FFXIV",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/Commander/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/Commander/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/Commander/latest.zip",
+    "LastUpdate": 1794582542
+  },
+  {
+    "Author": "FrameEnder",
+    "Name": "Kawari Probe",
+    "InternalName": "KawariProbe",
+    "AssemblyVersion": "0.7.1.0",
+    "Punchline": "Reports what the game client believes to ArchonEngine ControlPanel, for debugging.",
+    "Description": "Snapshots the client's quest list (with each quest's variables), key items, gear and inventory (with item levels), zone, position and\nconditions, and what the client says is stopping you (/kprobe stuck: animation lock, cast, pending item moves, refused actions and log\nmessages), and sends it to ArchonEngine ControlPanel's Diagnostics page. Only useful on a private Kawari server.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "kawari",
+      "debug"
+    ],
+    "RepoUrl": "https://github.com/FrameEnder/ProtoPlugins-FFXIV",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/KawariProbe/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/KawariProbe/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/KawariProbe/latest.zip",
+    "LastUpdate": 1794582542
+  },
+  {
+    "Author": "FrameEnder",
+    "Name": "Kawari Recorder",
+    "InternalName": "KawariRecorder",
+    "AssemblyVersion": "2.7.1.0",
+    "Punchline": "Records what the live game shows you as you play, for building a Kawari server that matches it.",
+    "Description": "Monsters (stats, spawns, actions and their effects), you (stats per job and level, what your actions do), kills\n(EXP and drops), quests (every step, with rewards), duties (directors, objectives, battle talk) and battles (everyone's\nposition, HP, target, casts and statuses four times a second, every action, the layout layers they came from.) Open it with /krec;\nExport writes one zip to share. Takes over a Kawari Bestiary recording.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "kawari"
+    ],
+    "RepoUrl": "https://github.com/FrameEnder/ProtoPlugins-FFXIV",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/KawariRecorder/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/KawariRecorder/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/KawariRecorder/latest.zip",
+    "LastUpdate": 1794582542
+  },
+  {
+    "Author": "FrameEnder",
+    "Name": "Kawari Bestiary",
+    "InternalName": "KawariBestiary",
+    "AssemblyVersion": "0.2.0.0",
+    "Punchline": "Records what you can see about the monsters around you, for building a Kawari server.",
+    "Description": "Watches the battle NPCs near you and keeps a browsable list of each kind: level, maximum HP and MP at each level,\nwhere they spawn, and every action they use with the damage it does to you. Open it with /bestiary, export to JSON and CSV.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "kawari",
+      "monsters"
+    ],
+    "RepoUrl": "https://github.com/FrameEnder/ProtoPlugins-FFXIV",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/KawariBestiary/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/KawariBestiary/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/KawariBestiary/latest.zip",
+    "LastUpdate": 1794582542
+  },
+  {
+    "Author": "redstrate, modified by FrameEnder",
+    "Name": "Auracite (Kawari)",
+    "InternalName": "AuraciteKawari",
+    "AssemblyVersion": "1.8.1.3002",
+    "Punchline": "Archive your character in a portable, generic format, with everything Kawari can use.",
+    "Description": "A modified Auracite: the same character.json as Auracite, plus quests in progress, crystals, key items, saddlebags, glamour dresser, plates and armoire, the chocobo companion, gear sets, retainers, achievements, logs, hotbars, macros and raw copies of the client's state, for backing up a character to a Kawari server.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "kawari",
+      "backup"
+    ],
+    "RepoUrl": "https://github.com/FrameEnder/ProtoPlugins-FFXIV",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/AuraciteKawari/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/AuraciteKawari/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/AuraciteKawari/latest.zip",
+    "LastUpdate": 1794582542
+  }
+]
