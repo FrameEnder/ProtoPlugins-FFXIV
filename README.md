@@ -5,6 +5,7 @@ Custom Dalamud plugin repository. In game, open `/xlsettings` → **Experimental
 | Plugin | What it does |
 | --- | --- |
 | Cinematic Dialogue | Cinematic camera, letterbox and HUD hiding for NPC conversations. |
+| Huntsman | Completes your Class and Grand Company Hunting Logs automatically. Needs vnavmesh and a rotation plugin. |
 | Commander | `/commander logout` and `/commander shutdown`, safe to call from other plugins. |
 | Kawari Probe | Sends client state to ArchonEngine ControlPanel for debugging. Kawari servers only. |
 | Kawari Recorder | Records retail monsters, quests, duties and battles for building Kawari content. |
