@@ -45,7 +45,7 @@
     "Author": "FrameEnder",
     "Name": "Huntsman",
     "InternalName": "Huntsman",
-    "AssemblyVersion": "1.2.1.0",
+    "AssemblyVersion": "1.3.0.0",
     "Punchline": "Completes your Hunting Log for you: travels, finds, and kills every entry.",
     "Description": "Reads your Class and Grand Company Hunting Log progress straight from the game, then teleports to the nearest attuned aetheryte, mounts up, paths to each target with vnavmesh, finds the right monster and fights it with your rotation plugin (BossMod, Rotation Solver Reborn or Wrath Combo) until every entry in the rank is done. It can switch gearsets between class logs and hand dungeon-only entries to AutoDuty. Requires vnavmesh. Open with /huntsman.",
     "ApplicableVersion": "any",
@@ -61,7 +61,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/Huntsman/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/Huntsman/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/Huntsman/latest.zip",
-    "LastUpdate": 1794928449,
+    "LastUpdate": 1794928736,
     "IconUrl": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/Huntsman/icon.png"
   },
   {
