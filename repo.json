@@ -143,7 +143,7 @@
     "Author": "FrameEnder",
     "Name": "Kawari Witness",
     "InternalName": "KawariWitness",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.1.1.0",
     "Punchline": "Watches the live game for the things a Kawari server still guesses at, and writes each down the moment it's seen.",
     "Description": "Carries a list of what the ArchonEngine fork's documentation says is guessed, unknown or never seen on the live game: the damage of attacks that never landed on anyone, how long statuses last, what a boss does past where the recordings end, quest scenes no recording has, what a fight does when it's lost. As you play it watches for each of them, and when one happens it writes the numbers down as a fact and says so in chat. Open it with /kwit to see what can be settled where you are and what to do for it. Nothing is sent anywhere; Copy facts puts them on the clipboard.",
     "ApplicableVersion": "any",
@@ -156,7 +156,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/KawariWitness/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/KawariWitness/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/KawariWitness/latest.zip",
-    "LastUpdate": 1794993735,
+    "LastUpdate": 1794997734,
     "IconUrl": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/KawariWitness/icon.png"
   }
 ]
