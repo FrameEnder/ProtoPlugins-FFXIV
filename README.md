@@ -9,5 +9,6 @@ Custom Dalamud plugin repository. In game, open `/xlsettings` → **Experimental
 | Commander | `/commander logout` and `/commander shutdown`, safe to call from other plugins. |
 | Kawari Probe | Sends client state to ArchonEngine ControlPanel for debugging. Kawari servers only. |
 | Kawari Recorder | Records retail monsters, quests, duties and battles for building Kawari content. |
+| Kawari Witness | Watches retail for what a Kawari server still guesses at and writes each down when it's seen. |
 | Kawari Bestiary | Logs nearby monsters' stats, spawns and actions. |
 | Auracite (Kawari) | Auracite with extra character data for backing up to a Kawari server. |
