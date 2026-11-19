@@ -68,7 +68,7 @@
     "Author": "FrameEnder",
     "Name": "Kawari Probe",
     "InternalName": "KawariProbe",
-    "AssemblyVersion": "0.7.1.0",
+    "AssemblyVersion": "0.7.2.0",
     "Punchline": "Reports what the game client believes to ArchonEngine ControlPanel, for debugging.",
     "Description": "Snapshots the client's quest list (with each quest's variables), key items, gear and inventory (with item levels), zone, position and\nconditions, and what the client says is stopping you (/kprobe stuck: animation lock, cast, pending item moves, refused actions and log\nmessages), and sends it to ArchonEngine ControlPanel's Diagnostics page. Only useful on a private Kawari server.",
     "ApplicableVersion": "any",
@@ -81,7 +81,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/KawariProbe/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/KawariProbe/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/KawariProbe/latest.zip",
-    "LastUpdate": 1794582542
+    "LastUpdate": 1795106030
   },
   {
     "Author": "FrameEnder",
