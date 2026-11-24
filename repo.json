@@ -3,7 +3,7 @@
     "Author": "FrameEnder",
     "Name": "Cinematic Dialogue",
     "InternalName": "CinematicDialogue",
-    "AssemblyVersion": "0.4.7.0",
+    "AssemblyVersion": "0.4.8.0",
     "Punchline": "Turns NPC conversations into camera-directed scenes.",
     "Description": "Frames NPC conversations with saved camera views that keep both faces in shot, adds letterbox bars and a vignette, hides the HUD and anyone standing in the way, and lets you restyle the dialogue box. Configure with /cinedialogue.",
     "ApplicableVersion": "any",
@@ -19,7 +19,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/CinematicDialogue/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/CinematicDialogue/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/FrameEnder/ProtoPlugins-FFXIV/main/plugins/CinematicDialogue/latest.zip",
-    "LastUpdate": 1795528179
+    "LastUpdate": 1795528475
   },
   {
     "Author": "FrameEnder",
